@@ -1,1 +1,0 @@
-# ImplementingLife.github.io
